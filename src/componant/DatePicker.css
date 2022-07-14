@@ -1,0 +1,15 @@
+body {
+  margin: 2rem 6rem;
+}
+.calendar {
+  border: none;
+}
+.calendar button {
+  border: none;
+}
+.button button {
+  height: 55px;
+  width: 120px;
+  border: solid rgb(35, 35, 217) 1px;
+  /* background-color: ; */
+}
